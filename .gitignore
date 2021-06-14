@@ -1,3 +1,13 @@
+newsapi_cred.json
+reddit_cred.json
+twitter_cred.json
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
